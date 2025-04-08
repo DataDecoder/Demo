@@ -1,0 +1,37 @@
+- [Morgan] Hi everyone,
+welcome to the course. My name is Morgan Willis, and I am a Principal
+Cloud Technologist here at AWS Training and Certification. - [Russ] And I am Russ Sayers,
+Senior Cloud Technologist at AWS Training and Certification. These days, containers
+are just about everywhere, and there are people from
+many different career paths who need to be familiar
+with container technology. This course is designed for someone in software new to containers or working with containers, and looking to grow their knowledge, and has 4 weeks of content. - [Morgan] In the first week,
+we start off by level-setting around what containers are,
+their use cases and benefits, and also, some of the
+basics around how to build and host a simple container
+on AWS using services like Amazon Elastic Container
+Registry and AWS App Runner. - [Russ] In Week 2, we start thinking about multi-container deployments. A developer environment may
+need multiple microservices and a database. Using tools like Docker Compose, we can automate the process of
+launching multiple containers in their own network. For getting multiple
+containers into production, we talk about container orchestration. You have containerized
+applications you want deployed to your compute resources,
+how can we automate this? We introduce Amazon
+Elastic Container Service to launch, scale, and
+manage your containers. We look at EC2 for your compute resources, and AWS Fargate as the managed
+serverless compute option. - [Morgan] In Week 3, we focus
+in on Kubernetes workloads. Kubernetes is an open-source platform for container orchestration that is popular and has a
+lot of community support. There is a bit of a learning
+curve for Kubernetes, and Week 3 is designed to
+help ease that learning curve and give you a solid foundation
+of the basics of Kubernetes. The service Amazon Elastic
+Kubernetes Service, or EKS, makes it a lot easier to create and operate Kubernetes clusters, and we'll demonstrate how to
+run a containerized app on EKS. And then finally, in
+Week 4, we will wrap up by covering some other
+container-related services on AWS, like AWS CloudWatch Container
+Insights, AWS Lambda, AWS App Mesh, and more. - [Russ] If there's one thing
+in this course we want you to focus on, it's this: what
+will containers solve for you? - [Morgan] Is there any application that would really benefit
+from being containerized? - [Russ] Could your
+deployments go little smoother if you started using
+container orchestration? - [Morgan] Or are there
+any cost optimizations that you could make? - [Russ] Now, it's time to
+get started on the learning.
